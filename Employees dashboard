@@ -1,0 +1,19 @@
+EMPLOYEES DASHOARD
+HR Dashboard and Departmental Salary Analysis
+
+I am excited to share a project I have been working on in depth over the past few days, focusing on delivering actionable insights into departmental structure, compensation, and required skill sets.
+
+Project Scope
+This project centers around analyzing various departments, their corresponding salary structures, and the average skill sets associated with specific positions. The goal is to support data-driven decision-making in recruitment and workforce planning.
+
+Key Tools and Methodologies
+
+✅ Power Query: Utilized to clean and transform the raw data, ensuring accuracy and consistency.
+✅ DAX (Data Analysis Expressions): Applied to perform advanced calculations and create meaningful metrics.
+✅ Power BI: Used to design and develop a dynamic, interactive dashboard for visualization and analysis.
+Insights and Analysis
+With the integration of Power BI, I was able to identify several valuable insights:
+
+📊 The department with the highest overall salary allocation.
+👥 Strategic recommendation for which department should be prioritized for the next recruitment phase.
+💰 Visibility into individual salary breakdowns, supporting transparency and budgeting.
